@@ -1,0 +1,3 @@
+[submodule "themes/kriss-kros"]
+	path = themes/kriss-kros
+	url = https://github.com/bubble-bit/kriss-kross.git
